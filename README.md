@@ -13,7 +13,19 @@ ________________________________________________________________________________
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 _________________________________________________________________________________
+ 🚀 My Goals
 
+- 🧠 Continue improving my development skills and exploring new technologies.
+- 🔭 Contribute more to **open-source** projects and help the developer community.
+
+_________________________________________________________________________________
+
+ 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-siddiqui-61b31a32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100049844162996&mibextid=ZbWKwL)
+_________________________________________________________________________________
+Thank you for visiting my profile
 
 <!---
 Alibro005/Alibro005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
