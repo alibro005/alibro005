@@ -28,6 +28,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 Thank you for visiting my profile
 
+![Profile views](https://komarev.com/ghpvc/?username=Alibro005&color=blue)
+
+
 <!---
 Alibro005/Alibro005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
