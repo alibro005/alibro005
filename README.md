@@ -26,6 +26,12 @@ ________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Alibro005)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Alibro005)
 _________________________________________________________________________________
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibro005&show_icons=true&locale=en&layout=compact" alt="alibro005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibro005&show_icons=true&locale=en" alt="alibro005" /></p>
+
+
 Thank you for visiting my profile
 
 ![Profile views](https://komarev.com/ghpvc/?username=Alibro005&color=blue)
