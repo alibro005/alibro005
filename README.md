@@ -29,15 +29,13 @@ ________________________________________________________________________________
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Alibro005)
 _________________________________________________________________________________
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
+<p >
+ 
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="350" height="200" style="display: inline-block; margin:50px"  />
+</p>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="200"/>
 
-  <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="350" height="200"/>
-
-</div>
 
 
 
