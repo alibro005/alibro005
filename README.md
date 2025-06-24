@@ -6,9 +6,11 @@
 _________________________________________________________________________________
 🛠 Skills
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javscript](https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,9 +29,18 @@ ________________________________________________________________________________
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Alibro005)
 _________________________________________________________________________________
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibro005&show_icons=true&locale=en&layout=compact" alt="alibro005" /></p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibro005&show_icons=true&locale=en" alt="alibro005" /></p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="200"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="350" height="200"/>
+
+</div>
+
+
+
 
 
 Thank you for visiting my profile
