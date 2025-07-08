@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Muhammad Ali Siddiqui**
 - 👀 I’m interested in Web Development And Artificial Intelligence
 - 🌱 I’m currently Pursuing Degree In **IS**  at NCBA&E.
-- 📫 How to reach me ...itsalibro9@gmail.com
+- 📫 How to reach me.. itsalibro9@gmail.com
 - ⚡ Fun fact: ...Coding is easier as much you think its depend upon your mindset.
 _________________________________________________________________________________
 🛠 Skills
