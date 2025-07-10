@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="Banner" width="100%" />
+<img src="banner.png" alt="Banner" width="100%" />
 
 - 👋 Hi, I’m **Muhammad Ali Siddiqui**
 - 👀 I’m interested in Web Development And Artificial Intelligence
