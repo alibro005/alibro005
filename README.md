@@ -1,3 +1,5 @@
+<img src="Banner.png" alt="Banner" width="100%" />
+
 - 👋 Hi, I’m **Muhammad Ali Siddiqui**
 - 👀 I’m interested in Web Development And Artificial Intelligence
 - 🌱 I’m currently Pursuing Degree In **IS**  at NCBA&E.
