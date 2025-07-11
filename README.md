@@ -44,7 +44,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 <h3>📊 Contributor Graph </h3>
 
-![Snake animation](https://raw.githubusercontent.com/Alibro005/Alibro005/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/alibro005/alibro005/output/github-contribution-grid-snake.svg)
+
 
 
 Thank you for visiting my profile
