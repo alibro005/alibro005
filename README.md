@@ -1,10 +1,9 @@
 <img src="banner.png" alt="Banner" width="100%" height = "230px" />
 
-- 👋 Hi, I’m **Muhammad Ali Siddiqui**
 - 👀 I’m interested in Web Development And Artificial Intelligence
 - 🌱 I’m currently Pursuing Degree In **IS**  at NCBA&E.
 - 📫 How to reach me.. itsalibro9@gmail.com
-- ⚡ Fun fact: ...Coding is easier as much you think its depend upon your mindset.
+- ⚡ Fun fact: ...Coding is easier as much you think it depends upon your mindset.
 _________________________________________________________________________________
 🛠 Skills
 
@@ -25,7 +24,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 
- 📫 How to reach me
+ 📫 Connect with me 
  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsalibro9@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005) 
