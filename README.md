@@ -5,7 +5,7 @@
 - 📫 How to reach me.. itsalibro9@gmail.com
 - ⚡ Fun fact: ...Coding is easier as much you think it depends upon your mindset.
 _________________________________________________________________________________
-🛠 Skills
+<h3>🛠 Skills</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,14 +17,14 @@ ________________________________________________________________________________
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 _________________________________________________________________________________
- 🚀 My Goals
+ <h3>🚀 My Goals</h3>
 
 - 🧠 Continue improving my development skills and exploring new technologies.
 - 🔭 Contribute more to **open-source** projects and help the developer community.
 
 _________________________________________________________________________________
 
- 📫 Connect with me 
+ <h3> 📫 Connect with me </h3>
  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsalibro9@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005) 
@@ -33,22 +33,13 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________
 
-GitHub Stats 
-
+<h3>📈 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="450" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="322" height="200" />
 </p>
-
-
-
-
-
-
-
-
 
 
 Thank you for visiting my profile
