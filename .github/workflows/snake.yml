@@ -15,6 +15,7 @@ jobs:
           github_user_name: Alibro005
           outputs: |
             dist/github-contribution-grid-snake.svg
+          theme: dark 
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
