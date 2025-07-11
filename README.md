@@ -42,10 +42,12 @@ ________________________________________________________________________________
 </p>
 
 _________________________________________________________________________________
-<h3>📊 Contributor Graph </h3>
 
-![Snake animation](https://raw.githubusercontent.com/alibro005/alibro005/output/github-contribution-grid-snake.svg)
+<h3> 🐍 Contribution Snake </h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alibro005/Alibro005/output/github-contribution-grid-snake.svg" width="100%" height="300">
+</p>
 
 
 Thank you for visiting my profile
