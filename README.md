@@ -36,9 +36,9 @@ ________________________________________________________________________________
 <h3>📈 GitHub Stats </h3>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="480" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="380" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="270" height="200" />
 </p>
 
 _________________________________________________________________________________
