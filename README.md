@@ -1,9 +1,9 @@
 <img src="banner.png" alt="Banner" width="100%" height = "230px" />
 
-- 👀 I’m interested in Web Development And Artificial Intelligence
-- 🌱 I’m currently Pursuing Degree In **IS**  at NCBA&E.
+- 👀 I’m interested in Web Development and Artificial Intelligence
+- 🌱 I’m currently pursuing a degree In **IS**  at NCBA&E.
 - 📫 How to reach me.. itsalibro9@gmail.com
-- ⚡ Fun fact: ...Coding is easier as much you think it depends upon your mindset.
+- ⚡ Fun fact: ... Coding is easier as much you think it depends upon your mindset.
 _________________________________________________________________________________
 <h3>🛠 Skills</h3>
 
