@@ -2,8 +2,8 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"     
+  workflow_dispatch:         
 
 jobs:
   generate:
@@ -15,7 +15,8 @@ jobs:
           github_user_name: Alibro005
           outputs: |
             dist/github-contribution-grid-snake.svg
-          preset: github-dark 
+          preset: github-dark            
+          color_snake: "#39d353"          
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -23,4 +24,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}  
+          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
+
