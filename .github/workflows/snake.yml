@@ -17,8 +17,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
                     
           color_snake: "#39d353"  
-          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"  
+          color_dots: '#CCCCCC,#39d353,#30a14e,#216e39,#0e4429'  # same as GitHub default
+          color_grid: '#000000'      # background grid (black)
 
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
