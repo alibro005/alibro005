@@ -14,11 +14,7 @@ jobs:
         with:
           github_user_name: Alibro005
           outputs: |
-            dist/github-contribution-grid-snake.svg
-        env:
-          COLOR_SNAKE: "#39d353"  
-          COLOR_DOTS: '#CCCCCC,#39d353,#30a14e,#216e39,#0e4429'
-          COLOR_GRID: '#000000'
+            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#0f0f0f,#39d353,#30a14e,#216e39,#0e4429
        
      
       - name: Push to output branch
