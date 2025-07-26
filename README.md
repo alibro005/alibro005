@@ -1,4 +1,5 @@
-<img src="banner.png" alt="Banner" width="100%" height = "230px" />
+<!---<img src="banner.png" alt="banner.gif" width="100%" height = "230px" /> --->
+![My Banner](banner.gif)
 
 - 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently pursuing a degree In **IS**  at NCBA&E.
