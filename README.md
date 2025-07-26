@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="" width="100%" height = "230px" /> 
+<img src="banner.png" alt="" width="100%" height = "230px" /> 
 
 
 - 👀 I’m interested in Web Development and Artificial Intelligence
