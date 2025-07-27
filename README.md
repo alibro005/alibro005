@@ -32,6 +32,11 @@ ________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alibro005) 
 [![X](https://img.shields.io/badge/X-white.svg?logo=X&logoColor=black)](https://x.com/alibro005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/alibro005)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alibro005)
+
+
+
 
 _________________________________________________________________________________
 
