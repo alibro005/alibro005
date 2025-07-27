@@ -26,9 +26,9 @@ ________________________________________________________________________________
 - 🧠 Continue improving my development skills and exploring new technologies.
 - 🔭 Contribute more to **open-source** projects and help the developer community.
 
-_________________________________________________________________________________
 
- <h3> 📫 Connect with me </h3>
+_________________________________________________________________________________
+ <h3> 🌐 Online Presence </h3>
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsalibro9@gmail.com)
