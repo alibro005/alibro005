@@ -8,15 +8,17 @@
 _________________________________________________________________________________
 <h3>🛠 Skills</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 
 _________________________________________________________________________________
  <h3>🚀 My Goals</h3>
@@ -27,13 +29,14 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 
  <h3> 📫 Connect with me </h3>
- 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsalibro9@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alibro005) 
-[![X](https://img.shields.io/badge/X-white.svg?logo=X&logoColor=black)](https://x.com/alibro005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/alibro005)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alibro005)
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsalibro9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alibro005)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/alibro005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/alibro005)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alibro005)
 
 
 
