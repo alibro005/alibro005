@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Web Development and Artificial Intelligence
-- 🌱 I’m currently pursuing a degree In **IS**  at NCBA&E.
+- 🌱 I’m currently pursuing a degree In **CS**  at NCBA&E.
 - 📫 How to reach me.. itsalibro9@gmail.com
 - ⚡ Fun fact: ... Coding is easier as much you think it depends upon your mindset.
 _________________________________________________________________________________
