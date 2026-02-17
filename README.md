@@ -1,79 +1,57 @@
-<img src="banner.gif" alt="" width="100%" height = "230px" /> 
+# Hi, I’m Muhammad Ali Siddiqui 👋   <img src="https://komarev.com/ghpvc/?username=Alibro005&color=blue" align="right" />
+
+- **Aspiring AI & Software Developer** with a strong foundation in Python, OOP, and problem-solving.
+- **Computer Science student** at **Alhamra University (NCBA&E)**.
 
 
-- 👀 I’m interested in Web Development and Artificial Intelligence
-- 🌱 I’m currently pursuing a degree In **CS**  at NCBA&E.
-- 📫 How to reach me.. itsalibro9@gmail.com
-- ⚡ Fun fact: ... Coding is easier as much you think it depends upon your mindset.
-_________________________________________________________________________________
-<h3>🛠 Skills</h3>
+---
 
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-8B0000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=for-the-badge&logo=oop&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=for-the-badge&logo=think&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
+---
 
-_________________________________________________________________________________
- <h3>🚀 My Goals</h3>
+## My Goals
 
-- 🧠 Continue improving my development skills and exploring new technologies.
-- 🔭 Contribute more to **open-source** projects and help the developer community.
+- Build a strong foundation in **Artificial Intelligence and Machine Learning**
+- Master **Python for AI**, including NumPy, Pandas, and Scikit-Learn
+- Develop **real-world AI projects** to solve practical problems
 
+---
 
-_________________________________________________________________________________
- <h3> 🌐 Online Presence </h3>
-
-
+## How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alibro005)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/alibro005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/alibro005)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alibro005)
-
-_________________________________________________________________________________
-
-<h3> Connect with Me </h3>
-
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ali.siddiqui9@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
 
 
+---
 
 
-<!-- <h3>📈 GitHub Stats </h3>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Alibro005&theme=dark&hide_border=false" width="380" height="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibro005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="270" height="200" /> -->
-</p>
-
-_________________________________________________________________________________
-
-<h3> 🐍 Contribution Snake </h3>
+<h3> Contribution Snake </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alibro005/Alibro005/output/github-contribution-grid-snake.svg" width="100%" height="300">
 </p>
 
 
-Thank you for visiting my profile
 
-![Profile views](https://komarev.com/ghpvc/?username=Alibro005&color=blue)
-<!---[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://committers.top/pakistan/alibro005)
+Thanks for visiting my profile! 😊
 
 
 
-
+<!-- <img src="banner.gif" alt="" width="100%" height = "230px" /> 
 Alibro005/Alibro005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
