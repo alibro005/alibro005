@@ -12,6 +12,7 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-8B0000?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=for-the-badge&logo=oop&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=for-the-badge&logo=think&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
