@@ -1,4 +1,4 @@
-# Hi, I’m Muhammad Ali Siddiqui 👋   <img src="https://komarev.com/ghpvc/?username=Alibro005&color=blue" align="right" />
+# Hi, I’m Muhammad Ali Siddiqui 👋  
 
 - **Aspiring AI & Software Developer** with a strong foundation in Python, OOP, and problem-solving.
 - **Computer Science student** at **Alhamra University (NCBA&E)**.
@@ -53,4 +53,5 @@ Thanks for visiting my profile! 😊
 <!-- <img src="banner.gif" alt="" width="100%" height = "230px" /> 
 Alibro005/Alibro005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://komarev.com/ghpvc/?username=alibro005&color=blue" align="right" />
 --->
