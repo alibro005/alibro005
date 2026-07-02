@@ -8,16 +8,16 @@
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-8B0000?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=for-the-badge&logo=oop&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=for-the-badge&logo=think&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=yellow&style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-8B0000?style=flat-squar&style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=flat-squar&style=for-the-badge&logo=oop&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=flat-squar&style=for-the-badge&logo=think&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-squar&logo=mysql&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-squar&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-squar&style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-squar&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-squar&logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ali.siddiqui9@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squar&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-squar&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ali.siddiqui9@outlook.com)
 
 
 ---
