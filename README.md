@@ -1,4 +1,4 @@
-# Hi, I’m Muhammad Ali Siddiqui 👋  
+# Hi, I’m Muhammad Ali Siddiqui 👋   <img src="https://komarev.com/ghpvc/?username=alibro005&color=D85A30&style=flat-square&label=Profile+Views" align="right" />
 
 - **Aspiring AI & Software Developer** with a strong foundation in Python, OOP, and problem-solving.
 - **Computer Science student** at **Alhamra University (NCBA&E)**.
