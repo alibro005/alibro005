@@ -1,39 +1,62 @@
-# Hi, I’m Muhammad Ali Siddiqui 👋   <img src="https://komarev.com/ghpvc/?username=alibro005&color=D85A30&style=flat-square&label=Profile+Views" align="right" />
 
-- **Aspiring AI & Software Developer** with a strong foundation in Python, OOP, and problem-solving.
-- **Computer Science student** at **Alhamra University (NCBA&E)**.
+# Hi, I'm Muhammad Ali Siddiqui 👋 <img src="https://komarev.com/ghpvc/?username=alibro005&color=D85A30&style=flat-square&label=Profile+Views" align="right" />
 
+- Computer Science student at Alhamra University with an interest in Artificial Intelligence, Machine Learning, and Python.
+- Building hands-on projects while learning Machine Learning, FastAPI, and model deployment.
 
 ---
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=yellow&style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-8B0000?style=flat-squar&style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-008080?style=flat-squar&style=for-the-badge&logo=oop&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4B0082?style=flat-squar&style=for-the-badge&logo=think&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-squar&logo=mysql&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-squar&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-squar&style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-squar&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-squar&logo=visual-studio-code&logoColor=white&style=for-the-badge)
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Machine Learning & Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### Core Concepts
+
+`Object-Oriented Programming` • `Data Structures & Algorithms` • `Problem Solving` • `Machine Learning Pipelines` • `Data Preprocessing` • `Feature Engineering`
 
 ---
 
 ## My Goals
 
-- Build a strong foundation in **Artificial Intelligence and Machine Learning**
-- Master **Python for AI**, including NumPy, Pandas, and Scikit-Learn
-- Develop **real-world AI projects** to solve practical problems
+- Build practical AI and Machine Learning projects
+- Strengthen my understanding of Data Science and Machine Learning
+- Learn to deploy ML applications with FastAPI
+- Contribute to open-source projects
+- Keep improving my problem-solving skills
 
 ---
 
-## How to reach me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squar&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-squar&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ali.siddiqui9@outlook.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alibro005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ali.siddiqui9@outlook.com)
 
 ---
 
