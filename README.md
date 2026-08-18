@@ -46,10 +46,9 @@
 ##  GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alibro005&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=alibro005&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
 </p>
-
-
 
 <h3> Contribution Snake </h3>
 
