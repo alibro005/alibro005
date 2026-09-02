@@ -24,33 +24,14 @@ I’m a Computer Science student interested in AI, machine learning, data, and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-**Core:** Data Structures & Algorithms · Object-Oriented Programming · Problem Solving · Machine Learning Pipelines · Data Preprocessing · Feature Engineering
-
 ## Projects
 
-### Qumly
+* <a href="https://qumly.me/"><strong>Qumly</strong></a>  ~  An AI-powered SQL assistant that turns natural language into safe SQL, runs queries, and explains results in English.
+* <a href="https://cardio-predict-gamma.vercel.app/"><strong>CardioPredict</strong></a>  ~  An end-to-end machine learning application for heart disease prediction using classification.
+* <a href="https://github.com/alibro005/Hospital-Management-System"><strong>Hospital Management System</strong></a>  ~  A Python desktop application with MySQL using OOP.
 
-An AI-powered SQL assistant that converts natural language questions into safe, schema-aware SQL and generates clear explanations of query results.
 
-**Python · FastAPI · SQL · MySQL · PostgreSQL · React**
 
-[Live](https://qumly.me/) · [Repository](https://github.com/alibro005/Qumly)
-
-### CardioPredict
-
-A machine learning web application that predicts heart disease risk using a classification pipeline and provides predictions through an interactive interface.
-
-**Python · Scikit-learn · FastAPI · React**
-
-[Live](https://cardio-predict-gamma.vercel.app/) · [Repository](https://github.com/alibro005/CardioPredict)
-
-### Hospital Management System
-
-A desktop management application that handles hospital records and operations using a Python-based interface with MySQL database integration.
-
-**Python · Tkinter · MySQL · OOP**
-
-[Repository](https://github.com/alibro005/Hospital-Management-System)
 
 ## Open Source
 
